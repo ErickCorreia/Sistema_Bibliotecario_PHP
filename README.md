@@ -54,4 +54,43 @@ O modelo relacional (MER) é composto por 6 entidades:
 
 1. **Clonar o Repositório**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/biblioteca-a3-php.git](https://github.com/ArturStange/Sistema_Bibliotecario_PHP.git)
+   git clone [https://github.com/ArturStange/Sistema_Bibliotecario_PHP.git](https://github.com/ArturStange/Sistema_Bibliotecario_PHP.git)
+2. **Configurar o Servidor**
+
+      Mova a pasta do projeto para o diretório de execução do seu servidor local (ex: htdocs no XAMPP ou www no WampServer).
+
+3. **Configurar a Base de Dados**
+
+        Abra o phpMyAdmin (http://localhost/phpmyadmin).
+
+        Crie uma base de dados com o nome exato: biblioteca_a3.
+
+        Importe o ficheiro SQL fornecido (ou copie o script completo e execute no separador SQL) para criar as tabelas e povoar a base com dados fictícios.
+
+4. **Configuração de Conexão**
+
+        Se o seu MySQL possuir uma password diferente de vazio (''), abra o ficheiro config.php e altere a variável $pass.
+
+5. **Acesso ao Sistema**
+
+        Abra o navegador e aceda a: http://localhost/biblioteca-a3-php
+
+## 🔐 Credenciais para Testes
+
+Para avaliar o sistema rapidamente, utilize as contas pré-configuradas:
+
+Acesso Administrador (Nível 3):
+
+    E-mail: admin@biblioteca.com
+
+    Password: admin123
+
+Acesso Utilizador Padrão (Nível 2):
+
+    E-mail: carlos@email.com
+
+    Password: user123
+
+### 📝 Licença
+
+Projeto desenvolvido para fins académicos. Uso livre para estudos e implementações educativas.
