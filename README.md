@@ -54,4 +54,4 @@ O modelo relacional (MER) é composto por 6 entidades:
 
 1. **Clonar o Repositório**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/biblioteca-a3-php.git](https://github.com/SEU-USUARIO/biblioteca-a3-php.git)
+   git clone [https://github.com/SEU-USUARIO/biblioteca-a3-php.git](https://github.com/ArturStange/Sistema_Bibliotecario_PHP.git)
