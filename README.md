@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Relacional-orange)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple)
 
-Um sistema web completo para a gestão de uma biblioteca académica. O sistema permite o controlo do acervo literário, gestão de empréstimos, sistema de avaliações e diferentes níveis de privilégios de acesso.
+Um sistema web completo para a gestão de uma biblioteca acadêmica. O sistema permite o controle do acervo literário, gestão de empréstimos, sistema de avaliações e diferentes níveis de privilégios de acesso.
 
 ## ✨ Funcionalidades Principais
 
